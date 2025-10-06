@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-87.30499268, 24.92499924], [-87.13800049, 25.73399925]]}, "properties": {"individual_id": "100490", "n_points": 2, "start": "2013-01-01T00:00:00", "end": "2013-01-02T00:00:00", "month": "2013-01"}}]}
